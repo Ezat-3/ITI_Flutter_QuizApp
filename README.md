@@ -1,4 +1,4 @@
-# todo_hive
+# QuizApp
 
 A new Flutter project.
 
